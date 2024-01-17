@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.notification-icon {
+  height: 1.5rem;
+}
+.float-rigth {
+  float: right;
+}
